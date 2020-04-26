@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\CommonGameClasses\bin\Debug\CommonGameClasses.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\CommonGameClasses\bin\Debug\CommonGameClasses.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\CommonGameClasses\obj\Debug\CommonGameClasses.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\CommonGameClasses\obj\Debug\CommonGameClasses.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\CommonGameClasses\obj\Debug\CommonGameClasses.pdb

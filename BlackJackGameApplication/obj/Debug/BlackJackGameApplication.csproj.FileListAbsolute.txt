@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\bin\Debug\BlackJackGameApplication.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\bin\Debug\BlackJackGameApplication.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\bin\Debug\BlackJackGameApplication.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\bin\Debug\CommonGameClasses.dll
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\bin\Debug\CommonGameClasses.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\obj\Debug\BlackJackGameApplication.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\obj\Debug\BlackJackGameApplication.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\obj\Debug\BlackJackGameApplication.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\obj\Debug\BlackJackGameApplication.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\obj\Debug\BlackJackGameApplication.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\BlackJackGameApplication\BlackJackGameApplication\obj\Debug\BlackJackGameApplication.pdb
